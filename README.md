@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=ffa61e&height=250&section=header&text=Semi's%20Github&fontSize=80&animation=fadeIn&&fontColor=FFFFFF)
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ffa61e&height=240&section=header&text=Semi's%20Github&fontSize=80&animation=fadeIn&&fontColor=FFFFFF)
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsemi-cloud&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/semi-cloud)
 <img src="https://img.shields.io/github/followers/semi-cloud?style=social">
@@ -23,7 +22,6 @@
 
 ### 🤔 Techs that I've used at least once..</br>
 <p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 

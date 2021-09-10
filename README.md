@@ -3,14 +3,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsemi-cloud&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/semi-cloud)
 <img src="https://img.shields.io/github/followers/semi-cloud?style=social">
 
-# 💖 Stats
+## 💖 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semi-cloud&show_icons=true&theme=gruvbox)
 
-# 👄 Languages
+## 👄 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semi-cloud&layout=compact)
 
-# 🛠 Tech Stack
-### 😄 What I can use well..</br>
+## 🛠 Tech Stack
+###  _What I can use well.._</br>
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
@@ -20,10 +20,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp </p>
 
-### 🤔 Techs that I've used at least once..</br>
+### _Techs that I've used at least once.._</br>
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 </p>
 

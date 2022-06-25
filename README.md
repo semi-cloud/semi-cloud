@@ -1,16 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=ffa61e&height=250&section=header&text=Semi's%20Github&fontSize=80&animation=fadeIn&&fontColor=FFFFFF)
-### Hi, I'm BackEnd Developer 👋
+<!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffa61e&height=200&section=header&text=Semi's%20Github&fontSize=80&animation=fadeIn&&fontColor=FFFFFF)
+ -->
+<div align="center">
+ <h1> 
+    Semi Kang 👩🏻‍💻
+ </h1>
+
+### _Hi, I'm BackEnd Developer_ 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsemi-cloud&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/semi-cloud)
 <img src="https://img.shields.io/github/followers/semi-cloud?style=social">
 
-## 💖 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semi-cloud&show_icons=true&theme=gruvbox)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semi-cloud&show_icons=true&theme=gruvbox) -->
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=semi-cloud&row=2&theme=chalk&column=3rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 👄 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semi-cloud&layout=compact)
 
 ## 🛠 Tech Stack
-###  _What I can use well.._</br>
+<!-- ###  _What I can use well.._</br> -->
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
@@ -21,7 +27,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </p>
 
-### _Techs that I've used at least once.._</br>
+<!-- ### _Techs that I've used at least once.._</br> -->
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp
@@ -29,6 +35,6 @@
 <img src="https://img.shields.io/badge/TRAVIS CI-3EAAAF?style=flat-square&logo=Travis CI&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp 
 </p>
-
+<div>
 
 

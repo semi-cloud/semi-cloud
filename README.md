@@ -13,7 +13,7 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=semi-cloud&row=2&theme=oldie&column=3rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semi-cloud&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksmsrkdtpal)](https://solved.ac/sksmsrkdtpal/)
 
 ## ☁️ Tech Stack ☁️
 ####  💫 What I can use well..</br>

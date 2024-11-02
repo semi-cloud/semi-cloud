@@ -10,31 +10,36 @@
 <img src="https://img.shields.io/github/followers/semi-cloud?style=social">
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semi-cloud&show_icons=true&theme=gruvbox) -->
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=semi-cloud&row=2&theme=oldie&column=3rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksmsrkdtpal)](https://solved.ac/sksmsrkdtpal/)
 
-## ☁️ Tech Stack ☁️
-####  💫 What I can use well..</br>
+
+## Experience
+_2024.05 ~ 2024.10_ </p>
+**에이블리(ABLY)** Backend Engineer Intern </p>
+_2023.04 ~ 2023.07_ </p>
+**디프만(Depromeet)** 13th Server Developer </p>
+_2021.09 ~ 2022.09_ </p>
+**UMC(University Makeus Challenge)** 1th Server, 2th Sangmyung univ Leader
+
+
+## Tech Stack 
+####  I'm interested in.. </br>
 <p>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp </p>
+</p>
 
-#### 🔒 Techs that I've used at least once..</br>
+#### Techs that I've used at least once..</br>
 <p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/TRAVIS CI-3EAAAF?style=flat-square&logo=Travis CI&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 </p>
 <div>
-
 

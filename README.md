@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsemi-cloud&count_bg=%23FBAFA4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/semi-cloud)
 <img src="https://img.shields.io/github/followers/semi-cloud?style=social">
 [![Tech Blog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@semi-cloud)
-#### Hi, I'm Growing BackEnd Developer.
+#### Hi, I'm Growing Backend Developer.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semi-cloud&show_icons=true&theme=gruvbox) -->
 

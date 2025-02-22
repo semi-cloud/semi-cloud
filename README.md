@@ -10,16 +10,13 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semi-cloud&show_icons=true&theme=gruvbox) -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksmsrkdtpal)](https://solved.ac/sksmsrkdtpal/)
-
-
 ## Experience
 _2024.05 ~ 2024.10_ </p>
 **[ABLY](https://m.a-bly.com/)** Backend Engineer Intern </p>
 _2023.04 ~ 2023.07_ </p>
 **[Depromeet](https://www.depromeet.com/)** 13th Server Developer </p>
 _2021.09 ~ 2022.09_ </p>
-**[UMC(University Makeus Challenge)](https://www.smumc.co.kr/)** 1th Server, 2th Sangmyung univ Leader
+**[UMC](https://www.smumc.co.kr/)** 1th Server Challenger, 2th Sangmyung univ Leader
 
 
 ## Tech Stack 
@@ -34,3 +31,6 @@ _2021.09 ~ 2022.09_ </p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/></a> &nbsp </p>
 </p>
+
+## Others
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksmsrkdtpal)](https://solved.ac/sksmsrkdtpal/)

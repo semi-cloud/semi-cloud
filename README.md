@@ -17,7 +17,7 @@ _2024.05 ~ 2024.10_ </p>
 _2023.04 ~ 2023.07_ </p>
 **[Depromeet](https://www.depromeet.com/)** 13th Server Developer </p>
 _2021.09 ~ 2022.09_ </p>
-**[UMC](https://www.smumc.co.kr/)** 1th Server Challenger, 2th Sangmyung univ Leader
+**[UMC](https://www.smumc.co.kr/)** 1th Server Challenger, 2th Univ Leader
 
 
 ## Tech Stack 

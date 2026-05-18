@@ -12,7 +12,6 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semi-cloud&show_icons=true&theme=gruvbox) -->
 
 ## Experience
-Backend Engineer At **@JobKorea** : _2026.01~_ </p>
 Backend Engineer Intern At **@ABLY Corp.** : _2024.05 ~ 2024.10_   </p>
 **Depromeet** 13th Server Developer : _2023.04 ~ 2023.07_ </p>
 **UMC** 1th Server Challenger, 2th Univ Leader : _2021.09 ~ 2022.09_
